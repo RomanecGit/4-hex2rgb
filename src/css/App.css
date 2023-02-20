@@ -1,0 +1,20 @@
+#root {
+  width:100%;
+  height:100vh;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  text-align: center;
+  height:100%;
+  min-height: 200px;
+}
+
+.rgb{
+  background-color: white;
+  color: black;
+}
