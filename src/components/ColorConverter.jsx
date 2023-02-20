@@ -26,7 +26,7 @@ function ColorConverter() {
     } else {
         rgb = "Введите цвет";
     }
-    
+
     return (
         <div className="container" style={style}>
             <form className="form">
